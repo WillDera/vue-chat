@@ -5,6 +5,7 @@
     <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <router-view/>
+    <h5 class="text-secondary text-center">Powered By Vue.js & Firebase</h5>
   </div>
 </template>
 

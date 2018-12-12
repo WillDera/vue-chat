@@ -1,7 +1,6 @@
 <template>
     <div class="container chat">
         <h2 class="center teal-text">Real-Time Chat</h2>
-        <h5 class="text-secondary text-center">Powered By Vue.js & Firebase</h5>
         <div class="card">
             <div class="card-content">
                 <p class="text-secondary nomessages" v-if="messages.length == 0">
